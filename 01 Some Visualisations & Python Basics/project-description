@@ -1,0 +1,5 @@
+In this project, I built a Jupyter notebook to perform some basic tasks, as part of an assignment in the PG Certificate Programme in Machine and Deep Learning with Upgrad / IIIT Bangalore: https://www.upgrad.com/machine-learning-deep-learning-pgc-iiitb/
+
+The folder contains the data made available for the assignment, the questions asked, and, of course, the Jupyter notebook I mention above.
+
+Areas covered: Basics (read data in non-UTF encoding), cleanse data, aggregate / subset data, visualise data
