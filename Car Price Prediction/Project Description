@@ -1,0 +1,3 @@
+In this project, a new car manufacturer wants to enter a market with multiple existing placers and wishes to understand how best to price its cars. It has data covering the price and features of several different cars in the market. 
+
+My code identifies relationships between different car features and car price, and ultimately quantifies those relationships via a multivariable regression model
