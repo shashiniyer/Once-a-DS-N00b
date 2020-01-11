@@ -2,4 +2,4 @@ In this project, I built a Jupyter notebook to perform some basic tasks, as part
 
 The folder contains the data made available for the assignment, the questions asked, and, of course, the Jupyter notebook I mention above.
 
-Areas covered: Basics (read data in non-UTF encoding), cleanse data, aggregate / subset data, visualise data
+Areas covered: Read-in data (non-UTF encoding), cleanse data, aggregate / subset data, visualise data
