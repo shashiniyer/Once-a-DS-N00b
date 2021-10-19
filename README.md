@@ -11,7 +11,7 @@ Inside this repo, you'll find evidence of my competence in the following skill s
 # Project (Folder) Descriptions
 
 1. [Exploratory Data Analysis on Lending Club applicants/loans data]()
-    - In this project, I visualise and explore Lending Club loans data to uncover relationships between borrower and loan attributes and the likelihood of the loan going bad (remain unpaid to the lender)
+    - In this project, I visualise and explore Lending Club loans data to uncover relationships between borrower and loan attributes and the likelihood of the loan going bad (remaining unpaid to the lender)
     - The files inside include:
       - The data file (loans.csv)
       - A data dictionary file (Data_Dictionary.xlsx)
