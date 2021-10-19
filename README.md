@@ -10,7 +10,7 @@ Inside this repo, you'll find evidence of my competence in the following skill s
 
 # Project (Folder) Descriptions
 
-1. [Exploratory Data Analysis on Lending Club applicants/loans data]()
+1. [Exploratory Data Analysis on Lending Club applicants/loans data](https://github.com/shashiniyer/Once-a-DS-N00b/tree/master/01%20Exploratry%20Data%20Analysis%20-%20Lending%20Club%20Loans)
     - In this project, I visualise and explore Lending Club loans data to uncover relationships between borrower and loan attributes and the likelihood of the loan going bad (remaining unpaid to the lender)
     - The files inside include:
       - The data file (loans.csv)
@@ -18,14 +18,14 @@ Inside this repo, you'll find evidence of my competence in the following skill s
       - A Jupyter notebook with visualisations and analysis, and
       - A PDF presentation with key insights
  
-2. [Regression - Car Price Prediction]()
+2. [Regression - Car Price Prediction](https://github.com/shashiniyer/Once-a-DS-N00b/tree/master/02%20Regression%20-%20Car%20Price%20Prediction)
     - In this project, a new car manufacturer wants to enter a market with multiple existing players and wishes to understand how best to price its cars. Made available is data covering the price and features of several different cars in the market
     - The files inside include:
       - The data file (CarPrice_Assignment.csv),
       - A data dictionary file (Data Dictionary - carprices.xlsx), and
       - A Jupyter notebook covering some intricate exploratory data analysis and a suite of OLS regression models
 
-3. [Classification - Telecom Churn Prediction and Factor Analysis]()
+3. [Classification - Telecom Churn Prediction and Factor Analysis](https://github.com/shashiniyer/Once-a-DS-N00b/tree/master/03%20Classification%20-%20Telecom%20Churn%20Prediction%20and%20Factor%20Analysis)
     - In this project, a telecom services providers wants to predict which of its customers are likely to churn and also understand what factors influence churn, so as to take preventive action. The service provider has data covering the behaviour of newly acquired customers over a four month period
     - A particularly important consideration: the dataset in this project consists of 99,999 observations of __226__ variables
     - For classification, I reduce the original dataset into a subset of principle components (PCA), take care of class imbalance (via under-sampling), and run a variety of different classification algorithms on the transformed dataset:
@@ -38,7 +38,7 @@ Inside this repo, you'll find evidence of my competence in the following skill s
       - The data file (telecom_churn_data.csv), and
       - A data dictionary file (Data+Dictionary-+Telecom+Churn+Case+Study.xlsx)
 
-4. [Multi-Class Classification of Hand Gestures in Videos]()
+4. [Multi-Class Classification of Hand Gestures in Videos](https://github.com/shashiniyer/Once-a-DS-N00b/tree/master/04%20Deep%20Learning%20(Multi-class%20Classification%20using%203D%20CNNs)%20-%20Gesture%20Recognition%20from%20Videos%20)
     - In this project, a manufacturer of Smart TVs wishes to introduce a new product feature whereby a TV sensor captures and processes its user's hand gestures in real time for certain remote control tasks. Given a labelled training dataset consisting of over 650 videos (each video consisting of a sequence of 30 images) of human hand gestures, my task was to develop a model that learns to predict the correct label corresponding to a new hand gesture video
     - I was able to train a model delivering 67% accuracy on a validation dataset consisting of 100 videos using a 3D-Convolutional Neural Network (3D-CNN)
     - The files inside this folder include:
