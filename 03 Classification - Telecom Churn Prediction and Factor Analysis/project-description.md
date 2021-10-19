@@ -1,5 +1,12 @@
-In this project, a telecom services providers wants to predict which of its customers are likely to churn and also understand what factors influence churn, so as to take preventive action. The service provider has data covering the customer behaviour over a four month period.
 
-My code (available in the Jupyter notebook shared) reduces the original dataset into a subset of principle components, takes care of class imbalance (via under-sampling), and runs a variety of different classification algorithms on the transformed dataset (Logistic Regression, Random Forest, XGBoost and Support Vector Machines - Linear, RBF, Polynomial). A separate logistic regression model allows for an explainable factor analysis.
-
-This project was an assignment in the IIIT Bangalore / Upgrad Post Graduate Certificate programme in Machine and Deep Learning: https://www.upgrad.com/machine-learning-deep-learning-pgc-iiitb/
+- In this project, a telecom services providers wants to predict which of its customers are likely to churn and also understand what factors influence churn, so as to take preventive action. The service provider has data covering the behaviour of newly acquired customers over a four month period
+- A particularly important consideration: the dataset in this project consists of 99,999 observations of 226 variables
+- For classification, I reduce the original dataset into a subset of principle components (PCA), take care of class imbalance (via under-sampling), and run a variety of different classification algorithms on the transformed dataset:
+    - Logistic Regression,
+    - Random Forest,
+    - Extreme Gradient Boosting (XGBoost),
+    - Linear and Non-Linear Support Vector Machines
+- For factor analysis, I develop a separate logistic regression model using pre-transformed, human-readable data to enable explainability
+- Apart from the Jupyter notebook that covers the above-mentioned tasks, files included in this folder are:
+    - The data file (telecom_churn_data.csv), and
+    - A data dictionary file (Data+Dictionary-+Telecom+Churn+Case+Study.xlsx)
