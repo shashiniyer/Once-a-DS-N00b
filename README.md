@@ -1,4 +1,4 @@
-# About: Everyone begins a [n00b](https://dictionary.cambridge.org/dictionary/english/noob)
+# About: Everyone was a [n00b](https://dictionary.cambridge.org/dictionary/english/noob) once ;-)
 My first repo on GitHub - a portfolio of some data science projects I undertook as part of the Post Graduate Program in Machine and Deep Learning at IIIT Bangalore. Here's a [link](https://www.iiitb.ac.in/advanced-certificate-programme-in-machine-learning-deep-learning) to the programme in its current avatar (it's Oct '21 now, and the program will likely evolve. So, ping me if the link is broken!)
 
 # Spotlight
